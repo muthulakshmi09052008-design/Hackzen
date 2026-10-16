@@ -1,0 +1,6 @@
+{
+  "name": "CCTV Vision Search AI",
+  "description": "Natural language search for CCTV footage using Computer Vision, person tracking, SQLite event indexing, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
